@@ -1,0 +1,5 @@
+D:\MyCsarpApp\ChaldeneAtori\ChaldeneAtori\obj\Debug\netcoreapp3.1\ChaldeneAtori.csproj.AssemblyReference.cache
+D:\MyCsarpApp\ChaldeneAtori\ChaldeneAtori\obj\Debug\netcoreapp3.1\ChaldeneAtori.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCsarpApp\ChaldeneAtori\ChaldeneAtori\obj\Debug\netcoreapp3.1\ChaldeneAtori.AssemblyInfoInputs.cache
+D:\MyCsarpApp\ChaldeneAtori\ChaldeneAtori\obj\Debug\netcoreapp3.1\ChaldeneAtori.AssemblyInfo.cs
+D:\MyCsarpApp\ChaldeneAtori\ChaldeneAtori\obj\Debug\netcoreapp3.1\ChaldeneAtori.csproj.CoreCompileInputs.cache
